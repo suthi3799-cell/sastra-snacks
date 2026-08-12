@@ -1,0 +1,33 @@
+
+
+> **Final Prompt — SASTRA SnackPass**
+>
+> I am a second-year college student and a beginner in HTML, CSS, and JavaScript. I need to create a frontend-only college canteen ordering website called **SASTRA SnackPass** for my web development assessment. Do not create a backend, database, or API because this is a 2nd-year project.
+>
+> Build a complete, professional and responsive website using only **HTML, CSS and vanilla JavaScript**. The website should have a premium **dark green theme** with bright green accents and yellow highlights. It should look modern, lively and polished rather than like a basic beginner project. Do not use AI-generated food photographs or external food images; use attractive food emojis/simple visual illustrations inside well-designed food cards.
+>
+> The website must include:
+>
+> 1. A professional navigation bar with SASTRA SnackPass branding.
+> 2. An attractive hero section explaining the queue-free campus food ordering concept.
+> 3. A food menu containing multiple predefined food items with name, category, description, price and visual food icon.
+> 4. Category filtering such as All, Meals, Snacks, Drinks and Desserts.
+> 5. Add-to-cart functionality.
+> 6. Increase and decrease item quantities.
+> 7. Remove items from the cart.
+> 8. A live cart item count.
+> 9. A live order summary showing subtotal, convenience fee and total price.
+> 10. A Confirm Order button.
+> 11. A unique pickup token generated using JavaScript after confirmation, for example `SP-4827`.
+> 12. A professional order-confirmation popup displaying the token and pickup information.
+> 13. A "How It Works" section explaining the ordering process.
+> 14. A responsive design that works on desktop, tablet and mobile screens.
+> 15. Smooth hover effects, transitions and polished UI details.
+>
+> Keep all food data predefined inside JavaScript because no database is required. Organize the project into separate files:
+>
+> `moon.html`
+> `moon.css`
+> `moon.js`
+>
+> Make sure the HTML correctly links to the CSS and JavaScript files. Write clean, readable and well-organized code suitable for a second-year student's project. Explain any important code briefly 
